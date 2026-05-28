@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<alumno semestre="5">
+    <nombre>Ana</nombre>
+    <apellidos>Martinez Rios</apellidos>
+    <edad>23</edad>
+    <correo>tucorreonojala@123.com</correo>
+    <telefono>1357924680</telefono>
+    <direccion>
+        <calle>Jacarandas</calle>
+        <colonia>Sadnaracaj</colonia>
+        <ciudad>Green River</ciudad>
+    </direccion>
+</alumno>
